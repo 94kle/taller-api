@@ -1,0 +1,22 @@
+#listaBanderas img {
+    width: 500px;
+    height: auto;
+}
+
+.sinMarcador{
+   list-style-type: none;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Para ocupar toda la altura de la ventana del navegador */
+    margin: 0;
+    background-color: rgba(248, 248, 255, 0.753);
+}
+
+.container{
+    text-align: center;
+}
+
